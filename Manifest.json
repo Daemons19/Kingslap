@@ -1,0 +1,20 @@
+{
+  "name": "Motorcycle Hailing Tracker",
+  "short_name": "Ride Tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "Kingicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "playstore.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
